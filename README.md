@@ -1,4 +1,7 @@
 # Teams
+The access link for Microsoft Teams can be found here (please use you University of East Anglia username and password to gain access):
+
+
 Agenda and notes from our Microsoft Teams meetings will be made available through the same platform.
 
 # Ethos
