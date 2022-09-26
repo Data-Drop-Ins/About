@@ -13,4 +13,5 @@ We encourage participants to share something about their research each session, 
 We believe in a respectful, non-judgemental environment, where participants adopt an open mind. Each research project is unique to the person. Each person is a unique combination of experience and education. Although certain methods and tools may be more effective to manage certain types of data, and some individuals may be more proficient in certain methods, this does not affect the value of a research project or a person.  
 
 # Aims
-We will consider how the methods and tools of data science can be used to capture, structure, clean and analyse data using programming languages such as Python. We will also consider many open source tools and resources to support you in managing and using your data effectively, such as Open Refine.
+To promote the digital methods and tools that can be used with qualitative and quantitative research data.
+To facilitate understanding of digital research methods across the arts, humanities and social sciences.
