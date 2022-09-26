@@ -1,4 +1,6 @@
-# Teams
+# Events
+Check out our latest Data Drop-Ins [schedule] (https://tockify.com/arts.and.humanities/agenda?search=Drop-Ins) to see the date of the next session and register for our special events.
+
 The access link for Microsoft Teams can be found [here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzgwNTIwYzctMTgwZi00YWIwLTg5ODctZmEyNWJiZWE0Mjg2%40thread.v2/0?context=%7B%22Tid%22%3a%22c65f8795-ba3d-4351-8a07-0865e5d8f090%22%2c%22Oid%22%3a%220c5fcc4f-1d35-444e-b736-df94425d1c56%22%7D) (please use you University of East Anglia username and password to gain access).
 
 Agenda and notes from our Microsoft Teams meetings will be made available through the same platform.
